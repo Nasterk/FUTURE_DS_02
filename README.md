@@ -32,11 +32,11 @@ The repository is organized as follows:
 └── README.md
 ```
 
-## 📊 Dataset
+##  Dataset
 
 The dataset used is `Dataset/customerSupportTickets.csv`, which contains information about support tickets, including customer details, product information, and ticket specifics.
 
-## 🔬 Analysis & Key Findings
+##  Analysis & Key Findings
 
 The core analysis is performed in the `Notebook/analysis.ipynb` Jupyter Notebook. The key steps include:
 
@@ -55,7 +55,7 @@ The core analysis is performed in the `Notebook/analysis.ipynb` Jupyter Notebook
 
 Key insights and recommendations are automatically generated and saved in `Report/task2Summary.txt`.
 
-## 🚀 How to Run
+##  How to Run
 
 To reproduce the analysis, follow these steps:
 
