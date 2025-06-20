@@ -19,7 +19,7 @@ The repository is organized as follows:
 ```
 .
 ├── Dashboard/
-│   └── dashboard.png       # Generated dashboard with key visualizations
+│   └── dashboard.png
 ├── Dataset/
 │   ├── customerSupportTickets.csv  # Raw dataset
 │   └── Output/
@@ -27,9 +27,9 @@ The repository is organized as follows:
 ├── Notebook/
 │   └── analysis.ipynb      # Jupyter Notebook with the full analysis
 ├── Report/
-│   ├── CustomerSupportTicketAnalysisReport.pdf # (Placeholder for a detailed report)
-│   └── task2Summary.txt    # Text file with key findings and recommendations
-└── README.md               # You are here!
+│   ├── CustomerSupportTicketAnalysisReport.pdf
+│   └── task2Summary.txt
+└── README.md
 ```
 
 ## 📊 Dataset
@@ -68,7 +68,7 @@ To reproduce the analysis, follow these steps:
 2.  **Create a virtual environment (optional but recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate
     ```
 
 3.  **Install the required dependencies:**
